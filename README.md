@@ -25,7 +25,10 @@ SQL databases are better for multi-row transactions, while NoSQL is better for u
 
 # Why is MongoDB popular? What is it’s history?
 
-MongoDB is popular because of its scalability, flexibility, and performance. It can handle large amounts of unstructured data and is well-suited for modern web applications that require fast and easy data access.
+MongoDB is popular because of its scalability, flexibility, and performance. It can handle large amounts of unstructured data and is well-suited for modern web applications that require fast and easy data access. It has also become popular because it makes it easy for developers to store, manage, and retrieve data when creating applications with most programming languages.
+
+MongoDB came around to provide a solution To provide a solution for the problems of scalability and agility that they were facing at DoubleClick. 
+
 
 # Make a diagram to show MongoDB architecture for storing data.
 
